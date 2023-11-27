@@ -1,0 +1,313 @@
+.headed{
+    color:black;
+    letter-spacing: 7px;
+    font-size: 10px;
+}
+.Read-more{
+ background-color:black;
+ color:white;
+ border: none;
+ height: 30px;
+ letter-spacing: 5px;
+ width: 170px;
+ font-size: 12px;
+}
+.img{
+    background-image: url(./img\ .jpeg) ;
+    height: 300px;
+    width: 370px;
+    margin-left: 10px;
+    margin-top: 60px;
+    
+}
+.coffee{
+    margin-top: -270px;
+    color:white;
+    font-size: 60px;
+}
+.about-us{
+    color:black;
+    font-size: 20px;
+    letter-spacing: 5px;
+    margin-right: 200px;
+    
+}
+.line{
+    margin-left: 200px;
+    width: 100px;
+    margin-top: -10px;
+    font-weight: bolder;
+    font-size: 20px;
+    color:black;
+    
+}
+.tex{
+    font-size: 25px;
+    font-weight: bold;
+    text-align: left;
+    margin-left: 20px;
+
+}
+.coffee-cup{
+    height: 100px;
+    width: 200px;
+    margin-top: 160px;
+    margin-left: 150px;
+    mix-blend-mode: darken;
+}
+.coffee-only{
+    margin-top: -100px;
+    margin-right: 100px;
+    mix-blend-mode: darken;
+}
+.title{
+    font-size: 15px;
+    text-align: left;
+    margin-left: 20px;
+
+}
+.coffee-on{
+    margin-top: 50px;
+    clip-path: circle();
+    height: 120px;
+    margin-right: 250px;
+}
+.name{
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: -70px;
+}
+.founder{
+     margin-left: 50px;
+}
+.our-coffee{
+    height: 2000px;
+    background-color:rgb(223, 193, 138);
+    margin-top:100px;
+}
+.head{
+    padding-top: 70px;
+    letter-spacing: 5px;
+    font-size: 20px;
+}
+.line1{
+    width: 150px;
+    background-color:black;
+    margin-top: 20px;
+}
+.coffee-1{
+    mix-blend-mode: darken;
+    margin-top: -80px;
+}
+.our-coffee-two{
+    height: 480px;
+    background-color:white;
+    width: 350px;
+    margin-left: 20px;
+    margin-top: 100px;
+}
+.casino{
+    font-size: 30px;
+    font-weight: bold;
+}
+.casino-1{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: -15px;
+}
+.more{
+    border: none;
+    background-color:black;
+    color:white;
+    height: 50px;
+    width: 200px;
+    letter-spacing: 5px;
+    font-weight: bold;
+    font-size: 17px;
+    margin-top: 10px;
+}
+.coffee-2{
+ mix-blend-mode: darken;
+    margin-top: -80px;
+}
+.coffee-3{
+    width: 300px;
+    height:250px;
+    mix-blend-mode: darken;
+    margin-top: -100px;
+}
+.our-coffee-three1{
+     height: 500px;
+    background-color:white;
+    width: 350px;
+    margin-left: 20px;
+    margin-top: 100px;
+    box-shadow: 0.3px 0.3px 1px 1px ;
+    border-color: rgba(0, 0, 0, 0.63);
+}
+.our-coffee-three2{
+     height: 530px;
+    background-color:white;
+    width: 350px;
+    margin-left: 20px;
+    margin-top: 100px;
+    box-shadow: 0.3px 0.3px 1px 0px ;
+    border-color: rgba(0, 0, 0, 0.63);
+}
+.our-coffee-three3{
+     height: 480px;
+    background-color:white;
+    width: 350px;
+    margin-left: 20px;
+    margin-top: 100px;
+    box-shadow: 0.3px 0.3px 1px 0px ;
+    border-color: rgba(0, 0, 0, 0.63);
+}
+.our-coffee-one{
+    height: 2500px;
+    background-color:white;
+    margin-top:100px;
+}
+.m100{
+ margin-right: 250px;
+ margin-top: -30px;
+}
+.m400{
+    margin-left: 250px;
+    margin-top: -40px;
+}
+.m20{
+    margin-top: 50px;
+}
+.ml100{
+ margin-right: 250px;
+ margin-top: -70px;
+ font-weight: bold;
+ font-size: 30px;
+}
+.ml400{
+    margin-left: 250px;
+    margin-top: -60px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.ml20{
+    margin-top: 50px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.our-coffee-three1{
+     height: 530px;
+    background-color:white;
+    width: 350px;
+    margin-left: 20px;
+    margin-top: 100px;
+    box-shadow: 0.3px 0.3px 1px 0px;
+    border-color: rgba(0, 0, 0, 0.63);
+}
+.me100{
+ margin-right: 250px;
+ margin-top: -65px;
+ font-weight: bold;
+ font-size: 30px;
+}
+.me400{
+    margin-left: 250px;
+    margin-top: -65px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.me20{
+    margin-top: 30px;
+    font-size: 30px;
+    font-weight: bold;
+}.touch{
+    background-color:rgba(209, 178, 130, 0.5);
+    height: 650px;
+    width: 350px;
+    margin-left: 20px;
+}
+.get{
+    padding-top: 100px;
+}
+.public{
+    margin-top: -10px;
+}
+.input{
+    margin-top: 30px;
+    height: 30px;
+    width: 150px;
+    margin-right: 100px;
+    background-color:rgba(209, 177, 130, 0);
+    border-style: none;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    outline: 0;
+}
+.info{
+    margin-top: 30px;
+    height: 30px;
+    width: 150px;
+    margin-right: 100px;
+    background-color:rgba(209, 177, 130, 0);
+    border-style: none;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    outline: 0;
+}
+.span{
+    width: 250px;
+    font-weight: bold;
+    height: 2px;
+    background-color:black;
+}
+.send{
+    border:none;
+    height: 50px;
+    background-color:black;
+    color:white;
+    width: 180px;
+    letter-spacing: 5px;
+    font-size: 20px;
+}
+.write{
+    margin-top: 400px;
+}
+.hello{
+    margin-top: 350px;
+}
+.todo-input{
+    height: 50px;
+    background-color:rgba(255, 0, 212, 0.418);
+    color:rgb(7, 7, 7);
+    width: 200px;
+}
+.todo-button{
+    height: 50px;
+    background-color:rgb(204, 0, 255);
+    margin-left: 20px;
+    width: 100px;
+    color:white;
+    font-size: 20px;
+}
+.delete{
+    border:none;
+    background-color:rgba(80, 74, 74, 0.582);
+    color: white;
+    box-shadow: 2px 2px 2px 2px;
+    height: 30px;
+    width: 100px;
+    text-align: center;
+}
+.come{
+    font-size: 20px;
+    margin-right: 150px;
+    justify-content: space-between;
+}
+.todo-e{
+    justify-content: space-between;
+    margin-left: 20px;
+}
